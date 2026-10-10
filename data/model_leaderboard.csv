@@ -1,0 +1,6 @@
+model,P@10,R@10
+popularity,0.008,0.0678
+nmf,0.008,0.0611
+item-item,0.006,0.0444
+hybrid,0.006,0.0467
+content-based,0.002,0.0144
